@@ -1,0 +1,1 @@
+worker: python dsa_quiz_bot.py
