@@ -122,4 +122,4 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ---
 
-Made with ❤️ for the coding community
+Made with ❤️ by [Renu Vishwakarma](https://www.linkedin.com/in/renu-vishwakarma-464813225/)
